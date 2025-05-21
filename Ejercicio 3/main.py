@@ -1,7 +1,3 @@
-# Programa "Simulación de una lista de reproducción de música" desarrollado por: Alicia Estrada
-# 20.mayo.2025
-# Versión 1.0
-
 # Descripción del programa/ejercicio:
 """Implemente una lista de reproducción de música utilizando una lista enlazada. El programa debe 
 permitir agregar canciones, eliminar canciones, reproducir la siguiente canción, 
