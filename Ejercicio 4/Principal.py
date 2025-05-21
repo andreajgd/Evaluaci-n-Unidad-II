@@ -1,7 +1,3 @@
-# Programa "Cola prioritaria" desarrollado por: Sara Zambrana
-# 20.mayo.2025
-# Versión 1.0
-
 # Descripción del programa/ejercicio:
 # Implementación de una cola de prioridad. Diseñe una cola de
 # prioridad donde los elementos se desencolan según su prioridad. Cada elemento
